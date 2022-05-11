@@ -53,6 +53,31 @@ a:hover {
     flex-grow: 1;
     height: 100px;
 }
+
+.item-1 {
+    background-color: #1969a6;
+}
+.item-2 {
+    background-color: #c83233;
+}
+.item-3 {
+    background-color: #1a8243;
+}
+.item-4 {
+    background-color: #b8a614;
+}
+.item-5 {
+    background-color: #949945;
+}
+.item-6 {
+    background-color: #aa2a2b;
+}
+.item-7 {
+    background-color: #76de31;
+}
+.item-8 {
+    background-color: #34e0e0;
+}
 .my-card {
     height: 300px;
 }
@@ -72,7 +97,7 @@ a:hover {
 #toggle-btn {
     border: 0px;
 }
-.user{
+.user {
     display: none;
 }
 
